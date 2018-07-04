@@ -1,0 +1,20 @@
+Work
+=========
+3. DONE - swagger integration 
+6. DONE - BCryptPasswordEncoder spring security
+
+1. Todo - Integrate with Airtel SonarQube
+2. Todo - Junit test for UserService
+3. Todo - https://projects.spring.io/spring-session/
+4. Todo - https://github.com/spring-projects/spring-loaded#readme
+5. Todo - control/toggle swagger api call to original and mock api
+6. Todo - save user by role name
+7. Todo - Hibernate/spring caching on read/get query for login. consider clustering scenarios
+
+TODO Learn
+==========
+> DONE - java 8 Optional
+> DONE - Spring Data JPA Reference Doc
+> Todo - Spring data test
+> Todo - Spring data rest
+> Todo - Spring security
