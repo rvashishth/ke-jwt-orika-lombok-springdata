@@ -7,8 +7,8 @@ import java.util.stream.Collectors;
 
 import org.junit.Test;
 
-import com.airtel.kyc.kenya.entity.Role;
-import com.airtel.kyc.kenya.entity.SubRole;
+import com.wolftechnica.app.entity.Role;
+import com.wolftechnica.app.entity.SubRole;
 
 public class TestLambda {
 
