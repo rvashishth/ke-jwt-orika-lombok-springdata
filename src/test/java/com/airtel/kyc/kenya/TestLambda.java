@@ -7,8 +7,8 @@ import java.util.stream.Collectors;
 
 import org.junit.Test;
 
-import com.wolftechnica.app.entity.Role;
-import com.wolftechnica.app.entity.SubRole;
+import com.us.app.entity.Role;
+import com.us.app.entity.SubRole;
 
 public class TestLambda {
 
